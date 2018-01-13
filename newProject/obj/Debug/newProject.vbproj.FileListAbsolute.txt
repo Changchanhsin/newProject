@@ -1,0 +1,10 @@
+d:\Users\Zhangzhanxin\Documents\Visual Studio 2012\Projects\newProject\newProject\bin\Debug\newProject.exe.config
+d:\Users\Zhangzhanxin\Documents\Visual Studio 2012\Projects\newProject\newProject\bin\Debug\newProject.exe
+d:\Users\Zhangzhanxin\Documents\Visual Studio 2012\Projects\newProject\newProject\bin\Debug\newProject.pdb
+d:\Users\Zhangzhanxin\Documents\Visual Studio 2012\Projects\newProject\newProject\bin\Debug\newProject.xml
+d:\Users\Zhangzhanxin\Documents\Visual Studio 2012\Projects\newProject\newProject\obj\Debug\newProject.Form1.resources
+d:\Users\Zhangzhanxin\Documents\Visual Studio 2012\Projects\newProject\newProject\obj\Debug\newProject.Resources.resources
+d:\Users\Zhangzhanxin\Documents\Visual Studio 2012\Projects\newProject\newProject\obj\Debug\newProject.vbproj.GenerateResource.Cache
+d:\Users\Zhangzhanxin\Documents\Visual Studio 2012\Projects\newProject\newProject\obj\Debug\newProject.exe
+d:\Users\Zhangzhanxin\Documents\Visual Studio 2012\Projects\newProject\newProject\obj\Debug\newProject.xml
+d:\Users\Zhangzhanxin\Documents\Visual Studio 2012\Projects\newProject\newProject\obj\Debug\newProject.pdb

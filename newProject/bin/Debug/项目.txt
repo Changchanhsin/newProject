@@ -1,0 +1,22 @@
+project_template=[验收模板]
+project_output=[CTC(C)-[[project_ID]]][[project_name]]
+abc=qqq
+def=System.Text.UTF8
+ghi=ccc
+product_name=粳米
+source=河北唐山
+project_name=古裕道　渤海碱米
+project_ID=2017-0014
+fas
+fa
+sdf
+asdf
+we4qr
+g
+sdf
+zxc
+vzs
+f
+as
+dtas
+gagasf
